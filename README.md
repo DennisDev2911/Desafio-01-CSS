@@ -32,5 +32,5 @@ Este projeto é um tutorial que ensina a como criar um Lading Pages **WE CARE** 
 
 
 
-<img src="" />
+<img src="https://github.com/DennisDev2911/Wide-coverage/blob/main/img/wide_coverage_location.JPG%20-%20PC.png?raw=true" />
 <img src="" />
