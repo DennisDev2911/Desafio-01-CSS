@@ -127,5 +127,64 @@ a:active {
 }
 
 @media screen and (max-width: 600px) {
+    div {
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        text-align: center;
+
+    }
+
+    header {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: relative;
+    }
+
+    main {
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+    }
+
+
+    a {
+        display: none;
+    }
+
+    img {
+        position: static;
+        max-width: 100%;
+        padding: 40px;
+        margin: 150px auto 0 auto;
+    }
+
+    h1 {
+        font-size: 35px;
+        width: auto;
+        height: auto;
+        text-align: center;
+        line-height: 40px;
+        margin: 60px auto 0 auto;
+
+    }
+
+    p {
+        width: 400px;
+        text-align: center;
+        line-height: 30px;
+        padding: 25px;
+        margin: 0 auto 80px auto; 
+    }
+
+    .botton {
+        margin: 199px;
+    }
+
+    .more {
+        margin: 0 auto;
+    }
+
     
 }
